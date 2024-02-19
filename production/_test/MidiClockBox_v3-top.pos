@@ -1,0 +1,57 @@
+### Footprint positions - created on 2024 January 30, Tuesday 11:58:43 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                     PosX       PosY       Rot  Side
+C1        0.1µ         C_0603_1608Metric                       125.0950   -75.7050   90.0000  top
+C2        0.1µ         C_0603_1608Metric                        80.0100   -86.0450   90.0000  top
+D1        1N4148        D_SOD-123                               157.4800   -63.1190    0.0000  top
+J1        Midi_In_0     Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   158.7670   -52.6200    0.0000  top
+J6        Midi_Out_0    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   124.4600   -52.6200    0.0000  top
+J7        Midi_Out_1    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   113.0300   -52.6200    0.0000  top
+J8        Midi_Out_2    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   101.6000   -52.6200    0.0000  top
+J11       Midi_Out_3    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal    90.1700   -52.6500    0.0000  top
+J12       Midi_Out_4    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal    67.3100   -52.6500    0.0000  top
+J13       Midi_Out_5    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal    78.7400   -52.6500    0.0000  top
+J14       Sync_Out_0    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   135.9070   -52.6200    0.0000  top
+J15       Sync_Out_1    Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal   147.3370   -52.6200    0.0000  top
+R1        10k           R_0603_1608Metric                        62.2808   -93.0254   90.0000  top
+R2        10k           R_0603_1608Metric                        71.2470   -92.8370  -90.0000  top
+R3        10k           R_0603_1608Metric                        74.1680   -96.8380  -90.0000  top
+R4        10k           R_0603_1608Metric                        74.2950   -92.8370  -90.0000  top
+R5        10k           R_0603_1608Metric                        65.2780   -92.9010   90.0000  top
+R6        10k           R_0603_1608Metric                        68.3260   -92.8370   90.0000  top
+R7        10k           R_0603_1608Metric                        77.2160   -91.5040  -90.0000  top
+R8        10k           R_0603_1608Metric                        80.1370   -91.5040  -90.0000  top
+R9        10k           R_0603_1608Metric                        82.5500   -74.6130   90.0000  top
+R10       220           R_0603_1608Metric                       161.9890   -62.6110    0.0000  top
+R11       10k           R_0603_1608Metric                        79.6290   -74.6130   90.0000  top
+R12       10k           R_0603_1608Metric                        76.5810   -74.6760   90.0000  top
+R13       10k           R_0603_1608Metric                        73.6600   -74.6770   90.0000  top
+R14       10k           R_0603_1608Metric                        70.6120   -74.8040   90.0000  top
+R15       10k           R_0603_1608Metric                        67.5640   -74.8030   90.0000  top
+R16       10k           R_0603_1608Metric                        64.5160   -74.8030   90.0000  top
+R17       10k           R_0603_1608Metric                        61.3410   -74.8030   90.0000  top
+R18       10k           R_0603_1608Metric                       160.4904   -71.7804    0.0000  top
+R19       220           R_0603_1608Metric                       160.4904   -74.3204    0.0000  top
+R20       220           R_0603_1608Metric                       160.4904   -69.2404  180.0000  top
+R21       220           R_0603_1608Metric                       122.9850   -62.4840    0.0000  top
+R22       220           R_0603_1608Metric                       126.2150   -62.4840    0.0000  top
+R23       220           R_0603_1608Metric                       110.9450   -62.4840    0.0000  top
+R24       220           R_0603_1608Metric                       114.7440   -62.4840    0.0000  top
+R25       220           R_0603_1608Metric                       100.1400   -62.4840    0.0000  top
+R26       220           R_0603_1608Metric                       103.9600   -62.4840    0.0000  top
+R27       220           R_0603_1608Metric                        59.0550   -90.2970   90.0000  top
+R28       220           R_0603_1608Metric                        59.0550   -93.6350  -90.0000  top
+R29       220           R_0603_1608Metric                        88.7200   -62.4840    0.0000  top
+R30       220           R_0603_1608Metric                        92.5300   -62.4840    0.0000  top
+R31       220           R_0603_1608Metric                        65.1950   -62.6110    0.0000  top
+R32       220           R_0603_1608Metric                        69.0050   -62.6110    0.0000  top
+R33       220           R_0603_1608Metric                        76.6250   -62.4840    0.0000  top
+R34       220           R_0603_1608Metric                        80.4350   -62.4840    0.0000  top
+R35       1k            R_0603_1608Metric                       135.9530   -62.4840    0.0000  top
+R36       1k            R_0603_1608Metric                       147.1570   -62.4840    0.0000  top
+U1        CD74HC4067SM  SOIC-24W_7.5x15.4mm_P1.27mm              71.1200   -83.1850  -90.0000  top
+U2        74LS241       SOIC-20W_7.5x12.8mm_P1.27mm             117.4750   -72.3900  -90.0000  top
+U3        6N138         SOP-8_6.62x9.15mm_P2.54mm               152.4800   -73.0250    0.0000  top
+## End

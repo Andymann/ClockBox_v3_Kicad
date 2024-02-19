@@ -1,0 +1,25 @@
+Item #;Designator;Qty;Manufacturer;Mfg Part#;Footprint;Description
+1;R3,R1,R15,R9,R12,R5,R16,R13,R17,R8,R4,R11,R2,R6,R14,R7,R18;17;Vishay/ Dale;CRCW060310K0JNEAIF;R_0603_1608Metric;10k
+2;J1;1;CUI Devices;SJ-3524-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi In 0
+3;R23,R26,R31,R10,R19,R21,R25,R28,R29,R33,R27,R34,R30,R20,R22,R24,R32;17;Vishay/ Dale;CRCW0603220RJNEAHP;R_0603_1608Metric;220
+4;J6;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 0
+5;U2;1;Texas Insturments;SN74LS241DWR;SOIC-20W_7.5x12.8mm_P1.27mm;74LS241
+6;C1,C2;2;Kemet;C0603C104K1RACTU;C_0603_1608Metric;0.1µ
+7;J15;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Sync Out 1
+8;U3;1;Broadcom/ Avago;6N138-300E;SOP-8_6.62x9.15mm_P2.54mm;6N138
+9;U1;1;Texas Insturments;CD74HC4067M96;SOIC-24W_7.5x15.4mm_P1.27mm;CD74HC4067SM
+10;J14;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Sync Out 0
+11;J12;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 4
+12;R35,R36;2;Vishay/ Dale;CRCW06031K00DHEBP;R_0603_1608Metric;1k
+13;J8;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 2
+14;J7;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 1
+15;J11;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 3
+16;D1;1;Diodes Incorporated;1N4148W-7-F;SOD123;1N4148
+17;J13;1;CUI Devices;SJ-3523-SMT-TR;Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal;Midi Out 5
+;J3;0;;;;
+;J4;0;;;;
+;J9;0;;;;
+;J10;0;;;;
+;J2;0;;;;
+;SW1;0;;;;
+;J5;0;;;;
