@@ -3962,18 +3962,6 @@
 
   (gr_rect (start 51.533056 43.813641) (end 170.938818 103.435608)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0bed04cb-b9e7-4329-9949-abcc26cfd514))
-  (gr_text "ClockBox v3" (at 127.732337 86.46803) (layer "F.Cu") (tstamp 0ccb5f8d-aecf-4c1f-941a-b4503c0903b2)
-    (effects (font (size 4 4) (thickness 1) bold) (justify left bottom))
-  )
-  (gr_text "www.Andyland.info" (at 129.002337 91.29403) (layer "F.Cu") (tstamp b15accea-f944-4657-8fa9-7baad0f6fbe5)
-    (effects (font (size 2 2) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "Developed @BringTheNoise Hamburg" (at 128.8034 88.1634) (layer "F.Cu") (tstamp bf546221-9e49-407b-92a5-5ecac96828be)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
-  (gr_text "Revision 202401001" (at 129.256337 93.07203) (layer "F.Cu") (tstamp cd3cfbac-6221-4ff0-b0d9-209cd6b0f6bc)
-    (effects (font (size 1 1) (thickness 0.125)) (justify left bottom))
-  )
   (gr_text "Pre3" (at 73.914 66.675 45) (layer "F.SilkS") (tstamp 076383db-13a4-49e0-883e-61b9f108c635)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
@@ -3982,6 +3970,9 @@
   )
   (gr_text "Display" (at 136.3218 65.659) (layer "F.SilkS") (tstamp 11c4649e-b375-4256-9481-b8956fce2776)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "www.Andyland.info" (at 130.627937 91.77663) (layer "F.SilkS") (tstamp 173d98b1-d087-4f87-98a6-acae7db6542c)
+    (effects (font (size 2 2) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "SCL" (at 139.192 73.279 90) (layer "F.SilkS") (tstamp 17a06069-276a-44ec-bf47-871f23595045)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
@@ -4028,6 +4019,9 @@
   (gr_text "Stop" (at 67.056 66.675 45) (layer "F.SilkS") (tstamp 9b346b34-3ef9-4afd-9eec-7b369e9c88f7)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
+  (gr_text "ClockBox v3" (at 129.357937 86.95063) (layer "F.SilkS") (tstamp ab5ae065-d388-4755-836f-a2c5ee350eb7)
+    (effects (font (size 4 4) (thickness 1) bold) (justify left bottom))
+  )
   (gr_text "Vcc" (at 136.398 73.152 90) (layer "F.SilkS") (tstamp b9c581e4-6fae-4afa-adba-0c6598ea88f0)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
@@ -4037,10 +4031,16 @@
   (gr_text "FSW3" (at 81.915 66.675 45) (layer "F.SilkS") (tstamp c1283869-36db-43ba-902a-a7446a5d510f)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
+  (gr_text "Revision 202403001" (at 130.881937 93.55463) (layer "F.SilkS") (tstamp c1510ebe-6fb2-4c0a-8b0c-e8ff4e965da0)
+    (effects (font (size 1 1) (thickness 0.125)) (justify left bottom))
+  )
   (gr_text "SyncOut 1" (at 141.859 60.833 90) (layer "F.SilkS") (tstamp dcbcfb31-942c-4bba-b492-3723081075cb)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "MidiOut 3" (at 84.455 61.468 90) (layer "F.SilkS") (tstamp ddc28488-3a73-4a60-ba56-55226878613d)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "Developed @BringTheNoise Hamburg" (at 130.429 88.646) (layer "F.SilkS") (tstamp e0b613d2-a6b5-4014-a314-85e267303443)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "FSW2" (at 78.994 66.675 45) (layer "F.SilkS") (tstamp e2a00501-e7c9-47cb-beae-c88e2e4db0c0)
@@ -10560,14 +10560,6 @@
       )
     )
   )
-  (group "" (id 4647536a-94f9-48d1-9da8-8cbf230ba0d7)
-    (members
-      0ccb5f8d-aecf-4c1f-941a-b4503c0903b2
-      b15accea-f944-4657-8fa9-7baad0f6fbe5
-      bf546221-9e49-407b-92a5-5ecac96828be
-      cd3cfbac-6221-4ff0-b0d9-209cd6b0f6bc
-    )
-  )
   (group "" (id 8236fb1e-173b-4cd7-a7ce-d049ec6a13ec)
     (members
       59489209-c725-45ee-8e08-3e1511549c09
@@ -10578,6 +10570,14 @@
     (members
       31800122-69ac-46ae-a6f0-e5fcf21fada9
       ca9cf006-8ceb-4b7d-8928-357893dd0c14
+    )
+  )
+  (group "" (id e09b6506-b82b-4535-acfe-793dc9e83ec3)
+    (members
+      173d98b1-d087-4f87-98a6-acae7db6542c
+      ab5ae065-d388-4755-836f-a2c5ee350eb7
+      c1510ebe-6fb2-4c0a-8b0c-e8ff4e965da0
+      e0b613d2-a6b5-4014-a314-85e267303443
     )
   )
 )
