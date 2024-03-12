@@ -7,7 +7,7 @@ Findings:<br>
 -Position of Arduino needs to be changed to not need extra cabling<br>
 -3.5mm jacks need to lap over the edge of the board to accomodate for case wall<br>
 -3.5mm jacks need to be seperated to make it visually easier to identify<br>
--connectors for buttons need to be moved to allow for better labeling
+-connectors for buttons need to be moved to allow for better labeling<br>
 -pulldown resistors are actually not necessary<br>
 -design pcb to have a break-off part as an underlay for led-stripe<br>
 
