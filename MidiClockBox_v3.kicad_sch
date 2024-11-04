@@ -8305,7 +8305,7 @@
 		)
 		(uuid "feff0d12-638a-4a45-bdeb-c8e7e511f8ac")
 	)
-	(text "Independent midi out\n\nsync out extra pin for START STOP"
+	(text "Hardware midi in/ out\nIndependent midi out -> demultiplex\nsync out extra pin for START STOP\nboard targeted for case-use\n"
 		(exclude_from_sim no)
 		(at 227.33 172.974 0)
 		(effects
