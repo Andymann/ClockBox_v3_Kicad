@@ -1094,7 +1094,7 @@
 			)
 		)
 		(property "Value" "Midi In 0"
-			(at -6.24 -7.41 90)
+			(at -6.24 -2.5 90)
 			(layer "F.Fab")
 			(uuid "19880c15-f101-4475-a144-999480ca4991")
 			(effects
@@ -8098,7 +8098,7 @@
 			)
 		)
 		(property "Value" "Sync Out 1"
-			(at -6.24 -6.14 90)
+			(at -6.5 -1.5 90)
 			(layer "F.Fab")
 			(uuid "0eedd361-9e40-4349-aae0-adffeab44083")
 			(effects
@@ -15034,7 +15034,7 @@
 			)
 		)
 		(property "Value" "Sync Out 0"
-			(at -6.24 -6.14 90)
+			(at -6.5 -1.5 90)
 			(layer "F.Fab")
 			(uuid "37d46663-3874-4adb-8ce0-a766da29082e")
 			(effects
@@ -26029,6 +26029,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "TAP"
+		(at 63 50.5 90)
+		(layer "F.SilkS")
+		(uuid "165264d3-174f-453c-8d35-3e9fe9faeec1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Start"
+		(at 50.5 107.5 90)
+		(layer "F.SilkS")
+		(uuid "17fdf789-e913-4362-a815-61254badddd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "MidiOut 4"
 		(at 175.012 39.178 90)
 		(layer "F.SilkS")
@@ -26041,10 +26065,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SyncOut 0"
-		(at 243.592 38.67 90)
+	(gr_text "Preset 1"
+		(at 75.5 108 90)
 		(layer "F.SilkS")
-		(uuid "30cdea49-7aa3-468d-bad5-51ec2683046b")
+		(uuid "1ddb2033-9e37-4967-b991-3f2b9632b7b0")
 		(effects
 			(font
 				(size 1 1)
@@ -26053,10 +26077,70 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MidiIn"
-		(at 241 112.5 -90)
+	(gr_text "Andy Fischer\nRevision 202501001\n\ninfo@Andyland.info\ninfo@SocialMidi.com"
+		(at 150.5 105.5 0)
 		(layer "F.SilkS")
-		(uuid "70152826-7a5e-4838-bf02-0dd82f9033eb")
+		(uuid "3a8089f8-211b-4fdb-ac50-9c72ace80fbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "WS2812"
+		(at 51.5 40 0)
+		(layer "F.SilkS")
+		(uuid "42d0cf55-c4cb-4de3-9d79-a7ec6c3931d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Stop"
+		(at 140.5 108 90)
+		(layer "F.SilkS")
+		(uuid "4520ddbf-1525-4cfc-9da9-70b6b91833a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Encoder"
+		(at 129 50 90)
+		(layer "F.SilkS")
+		(uuid "47fcb3f1-863e-4058-8530-0314105cbe29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Spare 1"
+		(at 74 117.5 0)
+		(layer "F.SilkS")
+		(uuid "485de9d0-8a50-45b4-b5ed-fa1c10c4f7fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Midi IN"
+		(at 240.5 117 90)
+		(layer "F.SilkS")
+		(uuid "5a235141-39f7-4b92-8136-3b473cbc7e16")
 		(effects
 			(font
 				(size 1 1)
@@ -26077,10 +26161,70 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Preset 3"
+		(at 115.5 108 90)
+		(layer "F.SilkS")
+		(uuid "924d5fdf-b0cc-4033-986c-e08239d686b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "MidiOut 2"
 		(at 209.429 39.051 90)
 		(layer "F.SilkS")
 		(uuid "96a04809-40c0-4a61-96e9-72387000ca94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Spare 2"
+		(at 224 77.5 0)
+		(layer "F.SilkS")
+		(uuid "a7a74746-d61b-4207-bec5-891c5d28d34e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ClockBox v3"
+		(at 150 97.5 0)
+		(layer "F.SilkS")
+		(uuid "adf44df8-b698-4b34-9b0c-c6378024180b")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.45)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Sync Out 0"
+		(at 211 115 90)
+		(layer "F.SilkS")
+		(uuid "b7a03f55-2d79-4170-b292-ebf0a7528860")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Preset 2"
+		(at 95.5 108 90)
+		(layer "F.SilkS")
+		(uuid "c09c1bb2-8e41-4e10-a629-5cd3866104f2")
 		(effects
 			(font
 				(size 1 1)
@@ -26101,10 +26245,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SyncOut 1"
-		(at 209.048 107.287 -90)
+	(gr_text "MidiOut 3"
+		(at 197.745 39.178 90)
 		(layer "F.SilkS")
-		(uuid "dcbcfb31-942c-4bba-b492-3723081075cb")
+		(uuid "ddc28488-3a73-4a60-ba56-55226878613d")
 		(effects
 			(font
 				(size 1 1)
@@ -26113,10 +26257,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MidiOut 3"
-		(at 197.745 39.178 90)
+	(gr_text "Sync Out 1"
+		(at 198 115 90)
 		(layer "F.SilkS")
-		(uuid "ddc28488-3a73-4a60-ba56-55226878613d")
+		(uuid "e2706103-0eb3-4d58-81ee-6553a9cb6e2f")
 		(effects
 			(font
 				(size 1 1)
@@ -50277,27 +50421,7 @@
 		(members "3df01672-40f9-424f-83b3-4c624064e2a5" "a277e1a5-30f8-4f50-a5dc-81cc08153a40")
 	)
 	(group ""
-		(uuid "7ddab6a4-52ee-4c61-b293-b4eb6bcab8b5")
-		(members "61c501ca-7f42-4c20-99ac-3da20b899098" "a9465e44-3ca1-40e0-b603-d75388b29636"
-			"bc7c0856-c1d8-49b7-a063-d90ff8a64daf" "bfdfbc6c-9df6-4fc4-8a9f-e6215f7882e6"
-			"dcbcfb31-942c-4bba-b492-3723081075cb"
-		)
-	)
-	(group ""
-		(uuid "e5ed1f07-5fe5-4b4c-ac03-cca027de9eb8")
-		(members "0d29409a-70a7-470f-a961-6b71b25106f6" "29d8489d-5353-475b-a9cf-e43c7dab7fae"
-			"30d6202a-4769-4309-ae90-fce66a4c40b3" "3292afcf-8b89-49b0-bf3b-336a607fef0b"
-			"337340bd-9962-411b-9636-54bbb4d318a6" "4777c9db-d456-4fd3-83cb-861a80502c02"
-			"4c74b6d2-6ab8-4eb1-9cb1-cdd85d8c6bf9" "57771380-6904-4cfb-9b5e-e0dcae7f8e5e"
-			"6a0df784-f801-4e2e-8e16-45414ec7c5cd" "70152826-7a5e-4838-bf02-0dd82f9033eb"
-			"71fdc79e-6370-407f-a44a-43016a0e27bc" "7ddab6a4-52ee-4c61-b293-b4eb6bcab8b5"
-			"84dc04c1-4c93-484e-8a26-e8f5b8868460" "882612e0-db30-4401-95d3-3f485178e6e2"
-			"90eafc24-c84f-45e5-8213-36297800184f" "91ffd533-0382-4dc8-b368-83a1d50c28b2"
-			"925ee635-54b8-4d4d-bb15-e7f3d29ce3c4" "99de6df6-4cf4-4b61-8710-9346c931a96c"
-			"ac4091c6-4054-4bcf-8aee-a0710218f526" "d476e249-f8d0-415d-9ace-e43d327e42e4"
-			"d6680d1b-f713-480f-a815-3d1043845107" "e64f28f9-baeb-4cf2-9f05-a0ceaeee8b88"
-			"e9037d01-5435-4f8e-8f63-2f8f428bb70a" "eac952d6-dbb9-4beb-8a0a-9d37bc132b20"
-			"f485458b-d93f-40af-bafa-a373df841667"
-		)
+		(uuid "2a740410-547f-410b-8847-0056584e14ad")
+		(members "3a8089f8-211b-4fdb-ac50-9c72ace80fbe" "adf44df8-b698-4b34-9b0c-c6378024180b")
 	)
 )
