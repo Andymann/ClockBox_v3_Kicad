@@ -26078,7 +26078,7 @@
 		)
 	)
 	(gr_text "Andy Fischer\nRevision 202501001\n\ninfo@Andyland.info\ninfo@SocialMidi.com"
-		(at 150.5 105.5 0)
+		(at 150.5 104 0)
 		(layer "F.SilkS")
 		(uuid "3a8089f8-211b-4fdb-ac50-9c72ace80fbe")
 		(effects
@@ -26198,7 +26198,7 @@
 		)
 	)
 	(gr_text "ClockBox v3"
-		(at 150 97.5 0)
+		(at 150 96 0)
 		(layer "F.SilkS")
 		(uuid "adf44df8-b698-4b34-9b0c-c6378024180b")
 		(effects
@@ -26261,6 +26261,18 @@
 		(at 198 115 90)
 		(layer "F.SilkS")
 		(uuid "e2706103-0eb3-4d58-81ee-6553a9cb6e2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ICSP"
+		(at 246.5 44 0)
+		(layer "F.SilkS")
+		(uuid "f4cc2670-2de0-4fac-bee6-b9108716aad7")
 		(effects
 			(font
 				(size 1 1)
