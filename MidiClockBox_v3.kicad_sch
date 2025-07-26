@@ -13106,6 +13106,16 @@
 		)
 		(uuid "3f84d0e7-755e-44f6-bcd7-60e6df6c1211")
 	)
+	(text "D20 / A2"
+		(exclude_from_sim no)
+		(at 311.658 66.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c37821ec-f9ba-4245-a02d-a00effe7192f")
+	)
 	(text "D5"
 		(exclude_from_sim no)
 		(at 264.922 71.374 0)

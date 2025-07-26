@@ -26078,13 +26078,13 @@
 		)
 	)
 	(gr_text "Andy Fischer\nRevision 202501001\n\ninfo@Andyland.info\ninfo@SocialMidi.com"
-		(at 150.5 104 0)
+		(at 150.775 111.8 0)
 		(layer "F.SilkS")
 		(uuid "3a8089f8-211b-4fdb-ac50-9c72ace80fbe")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 2 2)
+				(thickness 0.3)
 			)
 			(justify left bottom)
 		)
@@ -26198,13 +26198,13 @@
 		)
 	)
 	(gr_text "ClockBox v3"
-		(at 150 96 0)
+		(at 149.825 95.85 0)
 		(layer "F.SilkS")
 		(uuid "adf44df8-b698-4b34-9b0c-c6378024180b")
 		(effects
 			(font
-				(size 3 3)
-				(thickness 0.45)
+				(size 5 5)
+				(thickness 0.75)
 			)
 			(justify left bottom)
 		)
