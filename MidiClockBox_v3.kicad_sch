@@ -6909,9 +6909,9 @@
 			)
 			(symbol "WS2812B_1_1"
 				(pin power_in line
-					(at 0 7.62 270)
+					(at 0 -7.62 90)
 					(length 2.54)
-					(name "VDD"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6926,10 +6926,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 7.62 0 180)
+				(pin input line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "DOUT"
+					(name "DIN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6945,9 +6945,9 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 90)
+					(at 0 7.62 270)
 					(length 2.54)
-					(name "VSS"
+					(name "VDD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6962,10 +6962,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
+				(pin output line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "DIN"
+					(name "DOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17864,7 +17864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOP-8_6.62x9.15mm_P2.54mm"
+		(property "Footprint" "Package_SO:SOP-8_6.605x9.655mm_P2.54mm"
 			(at 315.976 38.1 0)
 			(effects
 				(font
