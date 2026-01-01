@@ -488,6 +488,10 @@
       {
         "netclass": "Default",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "+5V"
       }
     ]
   },
